@@ -1,6 +1,12 @@
 @media(max-width:480px ) {
   .heading {
-    font-size:50px;
+    font-size:45px;
+    
   }
+  
+  table {
+    width:75%;
+    font-size:12px;
+    
 }
   
