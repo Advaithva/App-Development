@@ -103,6 +103,6 @@ table {
 }
 
 
-.Header-list li:hover {
+.Header-list li:active {
 	color:#ff0000;
 }
