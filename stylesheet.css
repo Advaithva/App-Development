@@ -83,6 +83,8 @@ table {
 	margin:0px;
 	background-color:#eee;
 	position:fixed;
+	top:10px;
+	left:40px;
 }
 
 .Header-list li {
@@ -90,4 +92,5 @@ table {
 	list-style:none;
 	width:390px;
 	text-align:center;
+
 }
