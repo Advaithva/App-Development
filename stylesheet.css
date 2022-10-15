@@ -79,6 +79,7 @@ table {
 .Header-list {
 	
 	padding-top:5px ;
+	padding-bottom:5px;
 	font-size:24px;
 	margin:0px;
 	background-color:#999;
@@ -86,6 +87,7 @@ table {
 	top:0;
 	left:0;
 	width:100%;
+	opacity:0.7;
 }
 
 .Header-list li {
