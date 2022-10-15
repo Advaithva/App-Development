@@ -81,10 +81,10 @@ table {
 	padding-top:5px ;
 	font-size:24px;
 	margin:0px;
-	background-color:#eee;
+	background-color:#999;
 	position:fixed;
 	top:0;
-	left:40px;
+	left:0;
 	width:100%;
 }
 
