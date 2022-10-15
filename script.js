@@ -9,3 +9,7 @@ function WA() {
 function MA() {
 	alert("Mobile Apps - Apps run in mobiles, tablets, watches, etc.  ");
 }
+
+function TEAM() {
+	window.alert("Team Members - Aadhya, Advaith, Bhavya, Ryan and Tanmaya")
+}
