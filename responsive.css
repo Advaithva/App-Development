@@ -16,6 +16,15 @@
     padding:5px;
   }
     
+  .table img {
+    height:12px;
+    width:12px;
+  }
+  
+  .table span {
+    padding:5px;
+    margin:5px;
+  }
 }
   
 
