@@ -69,3 +69,17 @@ table {
 .fa-chrome {
 	color:#abff00;
 }
+
+.Header-list {
+	
+	padding-top:5px ;
+	font-size:24px;
+	margin:0px;
+}
+
+.Header-list li {
+	float:left;
+	list-style:none;
+	width:390px;
+	text-align:center;
+}
