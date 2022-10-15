@@ -1,9 +1,15 @@
 .heading { 
+
+	padding:5cm;
+	font-size:100pt;
+
+
+}
+
+header {
 	background-image:url(https://dreamwalk.com.au/wp-content/uploads/2020/10/bold-app-icons.jpg);
 	background-size:cover;
 	background-posiion:center;
-	padding:5cm;
-	font-size:100pt;
 	background-blend-mode: lighten;
 	background-color: rgba(250,250,250,0.62);
 
