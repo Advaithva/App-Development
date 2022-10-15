@@ -81,7 +81,8 @@ table {
 	padding-top:5px ;
 	font-size:24px;
 	margin:0px;
-	backgroundcolor:#eee;
+	background-color:#eee;
+	position:fixed;
 }
 
 .Header-list li {
