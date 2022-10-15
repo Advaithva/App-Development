@@ -82,7 +82,7 @@ table {
 	padding-bottom:10px;
 	font-size:24px;
 	margin:0px;
-	background-color:#999;
+	background-color:#79cbff;
 	position:fixed;
 	top:0;
 	left:0;
@@ -100,4 +100,9 @@ table {
 
 .Header-list li:hover {
 	color:#00ff00;
+}
+
+
+.Header-list li:hover {
+	color:#ff0000;
 }
