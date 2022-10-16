@@ -106,3 +106,7 @@ table {
 .Header-list li:active {
 	color:#ff0000;
 }
+
+hr {
+	height:3px;
+}
