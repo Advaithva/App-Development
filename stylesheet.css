@@ -110,3 +110,7 @@ table {
 hr {
 	border:1px solid red;
 }
+
+.dapp {
+	float:right;
+}
