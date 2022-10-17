@@ -48,7 +48,11 @@ table, tr, th, td {
 	margin:1cm;
 	border:3px solid black;
 	padding:1cm;
-	background-color:#eee;
+	background-image:url("https://th.bing.com/th/id/OIP.JkwLhZPZvXoBNtSxWHiuewHaEK?pid=ImgDet&rs=1");
+	background-size:cover;
+	background-posiion:center;
+	background-blend-mode: lighten;
+	background-color: rgba(250,250,250,0.62);
 }
 
 table {
