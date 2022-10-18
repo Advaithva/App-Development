@@ -140,3 +140,8 @@ hr {
 	height:450px;
 	
 }
+
+details {
+	float:right;
+	backgroung-color:#000;
+}
