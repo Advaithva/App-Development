@@ -160,7 +160,7 @@ details {
 .det {
 	
 	background-color:#ddd;
-
-	right:0;
+	position:fixed;
+	left;:650px;
 
 }
