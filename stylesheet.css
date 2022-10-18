@@ -131,3 +131,9 @@ hr {
 	background-color: rgba(250,250,250,0.62);
 	
 }
+
+
+.main iframe {
+	width:80%;
+	height:450px;
+}
