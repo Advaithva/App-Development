@@ -129,11 +129,12 @@ hr {
 	background-posiion:center;
 	background-blend-mode: lighten;
 	background-color: rgba(250,250,250,0.62);
-	
+	font-size:32px;
 }
 
 
 .quiz iframe {
 	width:80%;
 	height:450px;
+	
 }
