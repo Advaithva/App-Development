@@ -141,18 +141,19 @@ hr {
 	
 }
 
-details li {
+.det li {
 	float:right;
 	
 
 }
 
 details {
-		padding-right:1cm;
-	background-color:#ddd;
+	padding-right:1cm;
+	
 
 }
 
 .det {
 	float:right;
+	background-color:#ddd;
 }
