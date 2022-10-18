@@ -99,6 +99,7 @@ table {
 	list-style:none;
 	width:390px;
 	text-align:center;
+	width:25%
 
 }
 
@@ -109,6 +110,7 @@ table {
 
 .Header-list li:active {
 	color:#ff0000;
+
 }
 
 hr {
