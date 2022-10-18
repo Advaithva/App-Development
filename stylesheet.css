@@ -143,10 +143,16 @@ hr {
 
 details li {
 	float:right;
-	background-color:#000;
+	background-color:#ddd;
 
 }
 
 details {
 		padding-right:1cm;
+	background-color:#ddd;
+
+}
+
+.det {
+	float:right;
 }
