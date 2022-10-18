@@ -144,5 +144,9 @@ hr {
 details li {
 	float:right;
 	background-color:#000;
-	padding-right:1cm;
+
+}
+
+details {
+		padding-right:1cm;
 }
