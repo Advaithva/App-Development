@@ -141,7 +141,7 @@ hr {
 	
 }
 
-details {
+details li {
 	float:right;
 	background-color:#000;
 	padding-right:1cm;
